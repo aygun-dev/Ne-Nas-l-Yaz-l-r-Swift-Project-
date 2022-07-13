@@ -1,3 +1,5 @@
+Nasıl Yazılır YKS, TYT, LGS, LYS, YGS, ALES ve KPSS’ye hazırlanan öğrenciler için hazırlanmış bir uygulamadır. Günlük hayatta veya sınavlarda kelimelerin yazılışı karşımıza sıkça çıkmaktadır. Uygulama hem kelimelerin doğru yazılışlarını bulurken hem de yazımı karıştırılan kelimeler üzerine eğlenceli çalışmlar sunmaktadır. Böylece kelimelerin doğru yazımının aklımızda kalması amaçlanmştır. Uygulama hazırlanırken tamamen TDK referans alınmıştır. Uygulama, yazılışını bilmediğimiz veya karıştırdığımız kelimelerin doğru yazılışına çok kolay bir ulaşım sağlamaktadır.
+
 <p style="float: left;">
 
 <img src="https://user-images.githubusercontent.com/44132199/178753808-0dd6d055-c06c-4a85-ac85-64ec48a10448.png" width="234" height="506.4" />
