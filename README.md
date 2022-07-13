@@ -1,9 +1,21 @@
 # Ne Nasıl Yazılır
 
-YKS, TYT, LGS, LYS, YGS, ALES ve KPSS’ye hazırlanan öğrenciler için hazırlanmış bir uygulamadır. Günlük hayatta veya sınavlarda kelimelerin yazılışı karşımıza sıkça çıkmaktadır. Uygulama hem kelimelerin doğru yazılışlarını bulurken hem de yazımı karıştırılan kelimeler üzerine eğlenceli çalışmlar sunmaktadır. Böylece kelimelerin doğru yazımının aklımızda kalması amaçlanmştır. Uygulama hazırlanırken tamamen TDK referans alınmıştır. Uygulama, yazılışını bilmediğimiz veya karıştırdığımız kelimelerin doğru yazılışına çok kolay bir ulaşım sağlamaktadır.
+Uygulama Çıkış Yılı: 2019 <br/> <br/>
+Şuan için appstore da mevcut değil.
 
 Android Link: https://play.google.com/store/apps/details?id=com.nasilyazilirv3.app
 
+Kullanılan Teknolojiler:
+* Android için:
+  - Java
+  - Firebase
+ 
+* iOS için:
+  - Swift
+  - Firebase
+ 
+YKS, TYT, LGS, LYS, YGS, ALES ve KPSS’ye hazırlanan öğrenciler için hazırlanmış bir uygulamadır. Günlük hayatta veya sınavlarda kelimelerin yazılışı karşımıza sıkça çıkmaktadır. Uygulama hem kelimelerin doğru yazılışlarını bulurken hem de yazımı karıştırılan kelimeler üzerine eğlenceli çalışmlar sunmaktadır. Böylece kelimelerin doğru yazımının aklımızda kalması amaçlanmştır. Uygulama hazırlanırken tamamen TDK referans alınmıştır. Uygulama, yazılışını bilmediğimiz veya karıştırdığımız kelimelerin doğru yazılışına çok kolay bir ulaşım sağlamaktadır.
+ 
 <p style="float: left;">
 
 <img src="https://user-images.githubusercontent.com/44132199/178753808-0dd6d055-c06c-4a85-ac85-64ec48a10448.png" width="234" height="506.4" />
